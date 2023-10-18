@@ -8,7 +8,8 @@
 - 🔎 Моя цель - найти новую карьерную возможность  
   
 - 📄 Мое резюме [ссылка](https://drive.google.com/file/d/15ztajA-PsF35KYYO5DXEkfmC7hkMnr6g/view?usp=sharing)  
-- ####  📩 Связаться со мной: [моя почта](slepsovasonya@icloud.com)  
+- ####  📩 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@sofiiasleptsova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/софия-слепцова-649181284/) [![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:slepsovasonya@icloud.com)
+
 </div>  
 
 
