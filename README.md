@@ -7,7 +7,7 @@
 - 👩‍🎓 Успешно прошел курс "Инженер по тестированию" от  [Яндекс Практикума](https://practicum.yandex.ru)  
 - 🔎 Моя цель - стать надежным специалистом в области QA, способным гарантировать высокое качество продуктов и участвовать в их улучшении
   
-- 📄 Мое резюме [ссылка](https://drive.google.com/file/d/15ztajA-PsF35KYYO5DXEkfmC7hkMnr6g/view?usp=sharing)  
+- 📄 Мое резюме [ссылка](https://drive.google.com/file/d/1dkng6oVlOB73mqhf7q_4TShgcgzdFLRv/view?usp=sharing)  
 - ####  📩  Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@sofiiasleptsova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/софия-слепцова-649181284/) [![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:slepsovasonya@icloud.com)
 
 </div>  
