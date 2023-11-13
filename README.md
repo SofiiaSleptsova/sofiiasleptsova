@@ -10,7 +10,7 @@
  
  ### Тестовая документация
 <p align="left"> 
-  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
+  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
   <a href="https://www.atlassian.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
   <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" width="36" height="36" alt="Miro" /></a>
